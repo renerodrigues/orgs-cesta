@@ -21,7 +21,6 @@ const estilos = StyleSheet.create({
         paddingVertical: 16,
         marginHorizontal:16,
         alignItems: "center"
-
     },
     imagem: {
         width: 46,
